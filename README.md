@@ -1,6 +1,6 @@
 # Frontend Mentor - Article preview component solution
 
-This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
+This is a solution to the [Testimonials grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
 ## Table of contents
 
@@ -17,27 +17,24 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ## Overview
 
-Your challenge is to build out this article preview component and get it looking as close to the design as possible.
+### The challenge
+
+Your challenge is to build out this testimonials grid section and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-The only JavaScript you'll need for this challenge is to initiate the share options when someone clicks the share icon.
-
-### The challenge
-
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
-- See the social media share links when they click the share icon
+- View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
 
-![](./images/Screenshot_2021-03-14.png)
+![](./images/Screenshot_2021-03-15.png)
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/scss-bem-architecture-vanilla-javascript-40cmRFWy2](https://www.frontendmentor.io/solutions/scss-bem-architecture-vanilla-javascript-40cmRFWy2)
-- Live Site URL: [https://je-article-preview-component.netlify.app/](https://je-article-preview-component.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/scss-css-grid-flexbox-8xAkoiyu0](https://www.frontendmentor.io/solutions/scss-css-grid-flexbox-8xAkoiyu0)
+- Live Site URL: [https://je-testimonials-grid.netlify.app](https://je-testimonials-grid.netlify.app/)
 
 ## My process
 
@@ -48,7 +45,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Vanilla Javascript
 - SCSS
 - BEM Architecture
 
