@@ -1,4 +1,4 @@
-# Frontend Mentor - Article preview component solution
+# Frontend Mentor - Testimonial Grid solution
 
 This is a solution to the [Testimonials grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
