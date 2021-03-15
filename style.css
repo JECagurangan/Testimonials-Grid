@@ -236,36 +236,16 @@ p {
   }
 }
 
-.attribution-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  width: 250px;
-  height: 90px;
-  margin-top: 20px;
+.attribution p {
+  font-size: 14px;
+  text-align: center;
+  color: black;
 }
 
 @media (min-width: 1440px) {
-  .attribution-container {
-    width: 100%;
-    -ms-grid-column: 2;
-        grid-column-start: 2;
-    grid-column-end: 4;
+  .attribution {
+    position: absolute;
+    bottom: 15px;
   }
-}
-
-.attribution {
-  font-size: 14px;
-  text-align: center;
-  background: black;
-}
-
-.attribution a {
-  color: #3e52a3;
-  text-decoration: none;
-  font-weight: 600;
 }
 /*# sourceMappingURL=style.css.map */
