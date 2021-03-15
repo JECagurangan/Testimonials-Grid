@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonial Grid Solution
 
-This is a solution to the [Testimonials grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
+This is a solution to the [Testimonials Grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
 ## Overview
 
