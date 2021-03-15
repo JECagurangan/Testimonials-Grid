@@ -8,11 +8,6 @@ This is a solution to the [Testimonials grid challenge on Frontend Mentor](https
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -35,35 +30,6 @@ Users should be able to:
 
 - Solution URL: [https://www.frontendmentor.io/solutions/scss-css-grid-flexbox-8xAkoiyu0](https://www.frontendmentor.io/solutions/scss-css-grid-flexbox-8xAkoiyu0)
 - Live Site URL: [https://je-testimonials-grid.netlify.app](https://je-testimonials-grid.netlify.app/)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- SCSS
-- BEM Architecture
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-transition: height 0.5s ease-in-out;
-```
-```js
-const shareButtonSVG = shareButton.childNodes[1];
-const shareButtonPath = shareButtonSVG.childNodes[0];
-```
 
 ## Author
 
